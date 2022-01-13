@@ -1,2 +1,2 @@
-# Exquisite-corpse-Jari-Er-maa
+# Exquisite-corpse-Jari-Eramaa
 GitHub group exercise
